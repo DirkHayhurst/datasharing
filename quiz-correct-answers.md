@@ -257,3 +257,16 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** B. P&G's market share in the category and in the customer.
 
 **Explanation:** P&G's market share in a category and in the customers are the most important things to consider when talking exclusivity as regulators are concerned about foreclosure of the market for competitors. Any exclusivity agreements must be reviewed by Policy and Antitrust Legal before presenting them or discussing with the customer.
+
+## Question 18
+
+**Question:** The buyer has updated their planogram awarding P&G 10 incremental spots reducing competitive spots by 10. The buyer has asked me to fund markdowns to clear out the competitive product, can I fund? True or False?
+
+**Options:**
+
+- True
+- False
+
+**Correct answer:** False
+
+**Explanation:** We can't offer any incentive to get rid of competitive product including private label product. You can offer your buyer enhanced margin for additional distribution but should not be funding competitive markdowns.
