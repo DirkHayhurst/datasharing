@@ -63,3 +63,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** B. Respond to your customer explaining that you believe the e-mail was a mistake and that you'll delete it immediately and anticipate other suppliers will be reaching out with the same concern.
 
 **Explanation:** We generally should not have a competitor's competitively sensitive data such as our competitor's promotion and pricing especially in instances where it is clearly sent by mistake. Even if our category captain has signed a CDA, we are still limited in information we can see as it relates to future pricing.
+
+## Question 5
+
+**Question:** Your AE just presented a price increase to their buyer. Though they were not happy with the increase they are choosing to reflect it in the market but wanted to know when the largest historical competitor in the market was going to do the same. Based on previous historical actions taken by this large customer you have a pretty good idea when they might reflect it. What **CAN'T** you say?
+
+**Options:**
+
+- A. We do not comment on other customer's pricing strategies.
+- B. We do not comment on other customer's pricing strategies but historically, I have observed that they often reflect price changes within two months.
+- C. Based on a network call where cross customer plans were discussed you can share a definite date.
+- D. Emphasize to your customer the margin increases and business benefit if they reflect the price increase with the new SRP.
+
+**Correct answer:** C. Based on a network call where cross customer plans were discussed you can share a definite date.
+
+**Explanation:** A customer's future actions should never be shared with another customer. Historical actions or information available via public sources can typically be shared.
