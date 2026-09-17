@@ -227,3 +227,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** D. Both A & C
 
 **Explanation:** We can make suggestions on SRP and calculate the customer profit/margin based on SRP, but we cannot talk about other retailers future pricing plans nor agree on the customer margin without disclosing it is based on SRP.
+
+## Question 16
+
+**Question:** As the category NCSM, one of your AEs reaches out to say that she has received information that a new competitor is coming to the shelf and even has a blurry photo from inside of a mock set room. She said that she doesn't know who took the photo but her manager is the one who passed it on to her. What should you do?
+
+**Options:** *(shown in the order displayed on screen)*
+
+- D. You need more information here to determine if the photo should be shared further.
+- A. If she and her manager aren't aware of who took the photo, but it isn't clearly marked as confidential, it is ok to share this information.
+- C. A and B.
+- B. You can use this information and pass on to others, but only if you let them know when sharing that they shouldn't share it further.
+
+**Correct answer:** D. You need more information here to determine if the photo should be shared further.
+
+**Explanation:** When you receive competitive intelligence, before sharing further, you should reach out to your Antitrust Legal and Sales Policy SPOC especially if you do not have clear information on where it came from and whether it is information that we should have/was obtained in compliance with our Competitive Intelligence policy.
