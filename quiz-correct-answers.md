@@ -153,3 +153,16 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** E. Both C and D.
 
 **Explanation:** We must be extremely careful in any situations that involve contact with competitors and this type of meeting with competitors present requires a written exception from Legal. Please reach out to your Antitrust Legal contact in these situations and refer to the Contact with Competitors Policy... *(explanation truncated in screenshot)*
+
+## Question 11
+
+**Question:** Your retailer has asked their P&G category manager for his/her opinion on changes they are considering for their retailer brand packaging. The retailer views the P&G category manager as an expert on the category and they value his/her advice. It is ok for the P&G category manager to help the retailer with this request. True or False?
+
+**Options:**
+
+- True
+- False
+
+**Correct answer:** False
+
+**Explanation:** In this case, the retailer is a competitor. We would not provide input to another competitor on potential packaging changes, so we should not provide input to the retailer on their private brand.
