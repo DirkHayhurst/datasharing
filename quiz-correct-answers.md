@@ -79,6 +79,22 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 
 **Explanation:** A customer's future actions should never be shared with another customer. Historical actions or information available via public sources can typically be shared.
 
+## Question 6
+
+**Question:** There are rumors that the biggest competitor in my category is going to launch a new product in three months. Which of these action(s) **CAN'T** I take?
+
+**Options:**
+
+- A. Ask my buyer if she knows anything about my competitor's new product.
+- B. Share information about the new product that I found on the internet with my management chain.
+- C. Ask my category captain if they have heard of this new product.
+- D. Both A&C
+- E. All of the above.
+
+**Correct answer:** C. Ask my category captain if they have heard of this new product.
+
+**Explanation:** An AE can ask their buyer about a competitive product, it is at the buyer discretion whether they share the information. All information obtained must document the source and time before being shared internally. If a document is marked confidential or the buyer states "I should not be telling you this" or "you did not get this from me" it should not be shared internally. In addition, any information that can be found via public sources may be shared. Competitive information obtained through category captaincy is generally protected by CDA. Further, P&G's internal Category Captain guidelines do not permit this type of sharing. Asking a category captain to share this information potentially places us at antitrust risk and risk with the retailer as this behavior likely violates the retailer's category captain agreement or expressed... *(explanation truncated in screenshot)*
+
 ## Question 7
 
 **Question:** Which of these pricing recommendations shows best writing practices for internal discussions related to LPIs?
