@@ -316,3 +316,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** C. Put out a Category bulletin announcing the window and make it clear on the Category network call that there will be no incremental funding to support the window.
 
 **Explanation:** All FPM windows should be announced to all customers. It is a category call whether they provide incremental funding. If funding is offered it must be based on objective criteria.
+
+## Question 22
+
+**Question:** Your customer A, who is in the mass retail channel, has a strategy to be a low-price leader on Baby Care. During a JBP planning session, Customer A complains to you that Customer B keeps running future value coupons which are undercutting Customer A's pricing. Customer A wants you to commit to stop offering future value coupons at Customer B in the Baby Care category. What can you do?
+
+**Options:**
+
+- A. Tell Customer A that as the largest customer, you'll ask if the Baby Care category will support cutting out future value coupons for Customer B.
+- B. Tell Customer A that as the largest customer, you'll commit that we will stop future value coupons for Customer B, but you can do so only if the future value coupons have a low ROI.
+- C. Tell Customer A that future value coupons don't fit within Customer B's business strategy, so you can likely get the category to stop supporting them.
+- D. None of the above.
+
+**Correct answer:** D. None of the above.
+
+**Explanation:** We cannot comment about any other customers go to market strategy nor future plans due to CDAs with each of our retail partners and due to the potential antitrust risk related to collusion.
