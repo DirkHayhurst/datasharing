@@ -270,3 +270,19 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** False
 
 **Explanation:** We can't offer any incentive to get rid of competitive product including private label product. You can offer your buyer enhanced margin for additional distribution but should not be funding competitive markdowns.
+
+## Question 19
+
+**Question:** My AE was on a network call discussing a new P&G product launch. One of the other customer team AEs shared their customer's early launch information including unique display activations and promotional roll out plans. What **CAN'T** the AE on my team do with this information given it indicates that our retailer will be late to the market and not competitively priced?
+
+**Options:**
+
+- A. Create a compelling reason why their retailer should move up their timing based on the network intel but don't share the real reason why.
+- B. Say nothing even though you know your buyer will be upset as we can't share other customer team plans.
+- C. Say nothing to change your retailer's launch plans. After the launch look at trade spending to free up funds to offer their customer on new business building ideas if they are upset.
+- D. Reach out to your MS&P contact, Legal or Sales Policy and express concerns that future customer plans are being shared on network calls.
+- E. Both A & C.
+
+**Correct answer:** A. Create a compelling reason why their retailer should move up their timing based on the network intel but don't share the real reason why.
+
+**Explanation:** Cross customer future actions should never be shared with another customer and any information gained on a cross customer future action cannot be acted upon.
