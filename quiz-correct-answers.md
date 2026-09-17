@@ -166,3 +166,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** False
 
 **Explanation:** In this case, the retailer is a competitor. We would not provide input to another competitor on potential packaging changes, so we should not provide input to the retailer on their private brand.
+
+## Question 12
+
+**Question:** You are the category manager for Fem Care at your customer. Fem Care is losing value which you believe is because their assortment over-indexes in private label and budget options. You have sales data to back up your theory. Which of these actions is **NOT** ok to do?
+
+**Options:**
+
+- A. Present the sales data showing that private label sales are lagging.
+- B. Suggest raising prices in private label to be at least as high as P&G's lowest tier product.
+- C. Provide a list of items to be reviewed for the customer, based on the buyer's criteria, highlighting the 10 least productive sku's.
+- D. All of the above.
+
+**Correct answer:** B. Suggest raising prices in private label to be at least as high as P&G's lowest tier product.
+
+**Explanation:** We cannot make any pricing or shelving recommendations on competitive brands including private label. We can present data across P&G and competitive sku's.
