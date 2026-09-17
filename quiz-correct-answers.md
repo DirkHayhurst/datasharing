@@ -212,3 +212,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** B. You can potentially go forward with the planned price increase but need to talk to Antitrust Legal/Policy before you execute it.
 
 **Explanation:** In most cases we can move forward with our planned pricing but given the statement made by our competition we will need to review with Legal/Policy to confirm appropriate timing and wording on the announcement. We must avoid even the perception that P&G is reacting to any "signal" by Uni-Clark to raise pricing as that can create antitrust liability.
+
+## Question 15
+
+**Question:** What CAN you do when we discuss with our retailers the shelf price of P&G products?
+
+**Options:**
+
+- A. Make recommendations/proposals regarding the suggested retail price (SRP).
+- B. Disclose other retailers' future pricing plan for their reference.
+- C. Calculate the estimated customer's margin at assumed suggested retail price, but making clear that pricing and margin are at the sole discretion of the retailer and that we are not entering into an agreement on their pricing decisions.
+- D. Both A & C
+
+**Correct answer:** D. Both A & C
+
+**Explanation:** We can make suggestions on SRP and calculate the customer profit/margin based on SRP, but we cannot talk about other retailers future pricing plans nor agree on the customer margin without disclosing it is based on SRP.
