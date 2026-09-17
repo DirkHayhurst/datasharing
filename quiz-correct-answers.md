@@ -286,3 +286,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** A. Create a compelling reason why their retailer should move up their timing based on the network intel but don't share the real reason why.
 
 **Explanation:** Cross customer future actions should never be shared with another customer and any information gained on a cross customer future action cannot be acted upon.
+
+## Question 20
+
+**Question:** Your category has taken a list price increase in January, but your customer (A) isn't reflecting the new SRP. Because of that, the second largest customer, Customer B, isn't reflecting in the new SRP, but is now pushing for additional trade funds to cover the price increase. Customer A says it will take pricing up, but only after Customer B does. What can you do about this situation?
+
+**Options:**
+
+- A. Reduce Customer A's trade funds until they reflect the new SRP.
+- B. Explain to Customer A the margin increases and business benefit if they reflect the price increase with the new SRP.
+- C. Ask the AE on Customer B when their customer is going to take pricing.
+- D. None of the above.
+
+**Correct answer:** B. Explain to Customer A the margin increases and business benefit if they reflect the price increase with the new SRP.
+
+**Explanation:** We cannot take any type of punitive action, i.e., reduce trade funds, because of a retailer's pricing which is at their sole discretion. In addition, we can't communicate with other customer teams on their future plans.
