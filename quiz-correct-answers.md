@@ -31,3 +31,19 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** C. The buyer should simplify their portfolio and focus on having only one premium brand (Pantene) and one private label version in each pricing tier across the category.
 
 **Explanation:** We should not make recommendations to eliminate competitive brands in their totality or incent (i.e. pay) based on recommendations beyond P&G SKUs. Any efficient assortment recommendations not part of a JBP should follow efficient assortment guidelines... *(explanation truncated in screenshot)*
+
+## Question 3
+
+**Question:** Which is NOT ALLOWED under our Competitor Contact Policy without prior Antitrust Legal approval?
+
+**Options:**
+
+- A. Have a small group lunch with competitor employees after a trade association meeting.
+- B. Unavoidable personal contacts with competitor employees (e.g. running into a parent who works for a competitor at a school event) with limited socializing and no discussion of business topics.
+- C. Regular 1:1 meeting with an ex-P&G employee who is now country Sales Leader for Unilever.
+- D. Both A & C
+- E. None of the above
+
+**Correct answer:** D. Both A & C
+
+**Explanation:** We generally should not have contact with competitors unless approved by Antitrust Legal. Unavoidable personal contact that does not discuss business is allowed, but it must be truly unavoidable (e.g. not planned, ongoing, etc.).
