@@ -124,3 +124,16 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** D. Both A & C
 
 **Explanation:** The proof of alignment states we will pay $3, if the customer does not meet that agreement, it is not valid. In addition, it is at the sole discretion of the retailer what they choose to sell a product at so if the retailer decides to go lower than the $7.99, we do not have to cover the gap they created however, we cannot penalize the customer on future decisions based on their decision to price lower than $7.99 for this execution.
+
+## Question 9
+
+**Question:** My buyer asked for incremental funding to fund a $1 TPR to be within 5% of a competitor. We have agreed to give them funding to support that pricing but now they are taking the funding and not reflecting the TPR. Since they have not rendered performance against the merch agreement, I should not reimburse them. True or False?
+
+**Options:**
+
+- True
+- False
+
+**Correct answer:** True
+
+**Explanation:** If the merchandising agreement specifically called out a temporary price reduction as the performance and the customer is not reflecting it, you can refuse to pay as performance was not rendered.
