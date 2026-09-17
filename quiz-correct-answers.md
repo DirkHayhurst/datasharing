@@ -137,3 +137,19 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** True
 
 **Explanation:** If the merchandising agreement specifically called out a temporary price reduction as the performance and the customer is not reflecting it, you can refuse to pay as performance was not rendered.
+
+## Question 10
+
+**Question:** Your buyer just sent out a kickoff meeting invitation to all manufacturers with products on the Shave Care shelf for the upcoming planning season. During the session they will share their priorities and expectations for the year and ask that you bring your ideas for improving and redesigning the space. Their invitation clearly states they want everyone to hear the message at the same time and participate in a brainstorming session. What is your best option?
+
+**Options:**
+
+- A. Accept the invitation but send your buyer a note with all your ideas upfront so your competitors can't steal your ideas.
+- B. Accept the invitation but only plan to listen to the discussion and not participate verbally to ensure you are not creating any antitrust concerns given that there will be competitors in the room.
+- C. Ask your buyer to send you the agenda and explain you may only participate in the portion that they lead but must leave when sharing between manufacturers begins.
+- D. Reach out to Antitrust Legal to seek a potential exception to attend a meeting that includes competitors, sharing all relevant information including the agenda/what is expected.
+- E. Both C and D.
+
+**Correct answer:** E. Both C and D.
+
+**Explanation:** We must be extremely careful in any situations that involve contact with competitors and this type of meeting with competitors present requires a written exception from Legal. Please reach out to your Antitrust Legal contact in these situations and refer to the Contact with Competitors Policy... *(explanation truncated in screenshot)*
