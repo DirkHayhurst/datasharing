@@ -331,3 +331,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** D. None of the above.
 
 **Explanation:** We cannot comment about any other customers go to market strategy nor future plans due to CDAs with each of our retail partners and due to the potential antitrust risk related to collusion.
+
+## Question 23
+
+**Question:** Which of the following behaviors and corresponding communication is ACCEPTABLE?
+
+**Options:** *(shown in the order displayed on screen)*
+
+- C. "We recommended to Customer X the SRP, and they decided to increase prices in line with our recommendation".
+- B. "We must do everything to get all customers in line with our SRP recommendations."
+- D. "We need to get Customer X in line on pricing, because Customer Y will otherwise be furious."
+- A. "Customer X agrees to increase prices in line with what we discussed."
+
+**Correct answer:** C. "We recommended to Customer X the SRP, and they decided to increase prices in line with our recommendation".
+
+**Explanation:** We can't agree with our retailers on their shelf pricing and cannot coerce or put pressure on customers to reflect our SRPs. We can make recommendations on SRP but at the end of the day the Customer decides.
