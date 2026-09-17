@@ -242,3 +242,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** D. You need more information here to determine if the photo should be shared further.
 
 **Explanation:** When you receive competitive intelligence, before sharing further, you should reach out to your Antitrust Legal and Sales Policy SPOC especially if you do not have clear information on where it came from and whether it is information that we should have/was obtained in compliance with our Competitive Intelligence policy.
+
+## Question 17
+
+**Question:** My customer has approached me about being the exclusive branded supplier in my category in exchange for a significant trade fund payment. Overall, it is a great deal for the category and for my customer. From an Antitrust Legal standpoint, which of these factors matter the **most** in whether I can move forward?
+
+**Options:**
+
+- A. Whether the exclusivity bid was open to all suppliers for the category.
+- B. P&G's market share in the category and in the customer.
+- C. Whether there are any other exclusivity deals in the category with other customers.
+- D. The value that P&G would get from the exclusivity deal.
+
+**Correct answer:** B. P&G's market share in the category and in the customer.
+
+**Explanation:** P&G's market share in a category and in the customers are the most important things to consider when talking exclusivity as regulators are concerned about foreclosure of the market for competitors. Any exclusivity agreements must be reviewed by Policy and Antitrust Legal before presenting them or discussing with the customer.
