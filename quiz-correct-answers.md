@@ -181,3 +181,19 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** B. Suggest raising prices in private label to be at least as high as P&G's lowest tier product.
 
 **Explanation:** We cannot make any pricing or shelving recommendations on competitive brands including private label. We can present data across P&G and competitive sku's.
+
+## Question 13
+
+**Question:** One of our retailers routinely prices below FPM in the Laundry Care category. This is leading to a loss in profit for the retailer and now, the retailer wants P&G to continue to fund promotions to support the pricing.
+
+**Options:**
+
+- A. Explain that while all pricing is at the retailer's discretion, per our FPM policy, we cannot fund any pricing below our FPM.
+- B. Suggest that the retailer consider raising their price to our SRP (which is also the FPM), as it will help their margins and has been proven across the market to drive total category sales.
+- C. Take part in the promotion but only if the customer agrees to provide additional display.
+- D. Both A & B
+- E. All of the above.
+
+**Correct answer:** D. Both A & B
+
+**Explanation:** P&G's FPM policy does not prohibit a retailer from pricing below FPM but does not allow us to fund it unless covered by a specific exception within the policy.
