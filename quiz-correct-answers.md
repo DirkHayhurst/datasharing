@@ -197,3 +197,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** D. Both A & B
 
 **Explanation:** P&G's FPM policy does not prohibit a retailer from pricing below FPM but does not allow us to fund it unless covered by a specific exception within the policy.
+
+## Question 14
+
+**Question:** The Family Care category has a planned price increase which won't take effect for 6 months, which has been vetted through Policy/Legal but not released in GBP/Salesbook. Uni-Clark's CFO states in their quarterly earning call "pulp pricing has been rising 3% so we have no choice but to take a 3% increase in pricing next quarter, but the category will devalue if other suppliers do not follow." What can/should you do?
+
+**Options:** *(shown in the order displayed on screen)*
+
+- C. You can move up the price increase 3 months without going back to Legal/Policy if the amount of the increase doesn't change.
+- B. You can potentially go forward with the planned price increase but need to talk to Antitrust Legal/Policy before you execute it.
+- A. You can go forward with the planned price increase which has already been approved by Legal/Policy.
+- D. None of the above.
+
+**Correct answer:** B. You can potentially go forward with the planned price increase but need to talk to Antitrust Legal/Policy before you execute it.
+
+**Explanation:** In most cases we can move forward with our planned pricing but given the statement made by our competition we will need to review with Legal/Policy to confirm appropriate timing and wording on the announcement. We must avoid even the perception that P&G is reacting to any "signal" by Uni-Clark to raise pricing as that can create antitrust liability.
