@@ -16,3 +16,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** B. Reach out to Antitrust Legal to seek approval to participate.
 
 **Explanation:** Any/all trade association participation must be approved by Antitrust Legal to ensure proper safeguards are put in place. This process can be found under the Trade Association section at Antitrust.pg.com.
+
+## Question 2
+
+**Question:** Your Hair Care buyer has asked you to develop a plan to help grow total Hair Care sales for his category as part of your JBP negotiations. As part of that JBP what **CAN'T** you provide trade funds for?
+
+**Options:**
+
+- A. Pantene share of shelf should be increased up to $ share as its equity and value impressions, which are in the premium pricing tier, have been shown to drive incremental total category sales and traffic in the stores.
+- B. P&G's encap participation should increase to at least fair share over the course of the JBP.
+- C. The buyer should simplify their portfolio and focus on having only one premium brand (Pantene) and one private label version in each pricing tier across the category as the current wide variety is driving consumer confusion with too many brand choices.
+- D. The buyer should move the P&G value brands to the lowest shelf while moving P&G mid and higher tier brands to eye level.
+
+**Correct answer:** C. The buyer should simplify their portfolio and focus on having only one premium brand (Pantene) and one private label version in each pricing tier across the category.
+
+**Explanation:** We should not make recommendations to eliminate competitive brands in their totality or incent (i.e. pay) based on recommendations beyond P&G SKUs. Any efficient assortment recommendations not part of a JBP should follow efficient assortment guidelines... *(explanation truncated in screenshot)*
