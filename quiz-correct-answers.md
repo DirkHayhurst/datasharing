@@ -47,3 +47,19 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** D. Both A & C
 
 **Explanation:** We generally should not have contact with competitors unless approved by Antitrust Legal. Unavoidable personal contact that does not discuss business is allowed, but it must be truly unavoidable (e.g. not planned, ongoing, etc.).
+
+## Question 4
+
+**Question:** You received an e-mail from your customer which includes an excel spreadsheet showing P&G's planned promotions for that customer, but also the top 5 suppliers' planned promotions for that customer. What should you do?
+
+**Options:**
+
+- A. Send to your category captain - they have a CDA so they're the only function who can view this type of information.
+- B. Respond to your customer explaining that you believe the e-mail was a mistake and that you'll delete it immediately and anticipate other suppliers will be reaching out with the same concern.
+- C. Delete the email after you adjust your promotion plan to eliminate conflicts with competitive plans.
+- D. Both A and B
+- E. None of the above
+
+**Correct answer:** B. Respond to your customer explaining that you believe the e-mail was a mistake and that you'll delete it immediately and anticipate other suppliers will be reaching out with the same concern.
+
+**Explanation:** We generally should not have a competitor's competitively sensitive data such as our competitor's promotion and pricing especially in instances where it is clearly sent by mistake. Even if our category captain has signed a CDA, we are still limited in information we can see as it relates to future pricing.
