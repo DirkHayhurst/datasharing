@@ -79,6 +79,21 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 
 **Explanation:** A customer's future actions should never be shared with another customer. Historical actions or information available via public sources can typically be shared.
 
+## Question 7
+
+**Question:** Which of these pricing recommendations shows best writing practices for internal discussions related to LPIs?
+
+**Options:**
+
+- A. We recommend taking an LPI in JFM and expect that competition will follow.
+- B. We recommend taking an LPI in JFM and as market leader, expect that competition will follow.
+- C. We recommend taking an LPI in JFM behind our innovation and will share with customers the selling story behind it.
+- D. We recommend taking an LPI in JFM behind our innovation; we believe that competition will follow even though their technology is inferior to ours.
+
+**Correct answer:** C. We recommend taking an LPI in JFM behind our innovation and will share with customers the selling story behind it.
+
+**Explanation:** We should not make comments which could suggest that we expect competition to follow any of our pricing actions; all the other statements give the appearance that we are trying to signal to our competitors to raise pricing or that we have coordinated in some way on pricing. The intent behind our pricing decision must be unilateral and we should use words to reflect that intent.
+
 ## Question 8
 
 **Question:** Which statements are CORRECT when P&G had made the following offer to its customer: "P&G will fund you $3 per pack for every product you sell at $7.99 or below" with the disclaimer that pricing is at the sole discretion of the retailer?
