@@ -301,3 +301,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** B. Explain to Customer A the margin increases and business benefit if they reflect the price increase with the new SRP.
 
 **Explanation:** We cannot take any type of punitive action, i.e., reduce trade funds, because of a retailer's pricing which is at their sole discretion. In addition, we can't communicate with other customer teams on their future plans.
+
+## Question 21
+
+**Question:** You are the Oral Care MS&P manager. Customer A overordered on two sku's and are looking for your help to run through their inventory. Other customers also carry these sku's, what can you do to help Customer A?
+
+**Options:**
+
+- A. Add an FPM window with a lower FPM in Salesbook and only tell the AE on Customer A about it and hope others don't notice the new window.
+- B. Announce the window on the Category network call but tell everyone that this window is only for Customer A and no other customers should be told about it.
+- C. Put out a Category bulletin announcing the window and make it clear on the Category network call that there will be no incremental funding to support the window.
+- D. Give Customer A incremental funding to help run down their inventory.
+
+**Correct answer:** C. Put out a Category bulletin announcing the window and make it clear on the Category network call that there will be no incremental funding to support the window.
+
+**Explanation:** All FPM windows should be announced to all customers. It is a category call whether they provide incremental funding. If funding is offered it must be based on objective criteria.
