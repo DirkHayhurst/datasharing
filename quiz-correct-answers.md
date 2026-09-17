@@ -78,3 +78,18 @@ Compiled from quiz screenshots. Each entry lists the question, the correct answe
 **Correct answer:** C. Based on a network call where cross customer plans were discussed you can share a definite date.
 
 **Explanation:** A customer's future actions should never be shared with another customer. Historical actions or information available via public sources can typically be shared.
+
+## Question 8
+
+**Question:** Which statements are CORRECT when P&G had made the following offer to its customer: "P&G will fund you $3 per pack for every product you sell at $7.99 or below" with the disclaimer that pricing is at the sole discretion of the retailer?
+
+**Options:**
+
+- A. If the customer reduced its resale price to only $8.99, P&G can choose not to pay any funding.
+- B. If the customer reduced its resale price to $6.99, P&G must pay $4.
+- C. If the customer reduced their resale price to $6.99, P&G must pay $3 per unit sold.
+- D. Both A & C
+
+**Correct answer:** D. Both A & C
+
+**Explanation:** The proof of alignment states we will pay $3, if the customer does not meet that agreement, it is not valid. In addition, it is at the sole discretion of the retailer what they choose to sell a product at so if the retailer decides to go lower than the $7.99, we do not have to cover the gap they created however, we cannot penalize the customer on future decisions based on their decision to price lower than $7.99 for this execution.
